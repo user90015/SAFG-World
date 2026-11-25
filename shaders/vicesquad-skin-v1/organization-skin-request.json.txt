@@ -1,5 +1,5 @@
 {
-  "organization": "Vice Squad",
+  "organization": "ViceSquad",
   "target": "skin",
   "kind": "livery",
   "model": 240,
